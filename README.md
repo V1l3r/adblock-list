@@ -1,2 +1,2 @@
 # adblock-list
-list
+
